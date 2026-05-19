@@ -5,6 +5,13 @@ Modern customer feedback and review management platform built with Laravel.
 FeedbackHub helps businesses collect customer feedback, manage reviews, and generate shareable review links through a clean and mobile-friendly dashboard.
 
 ---
+## 🚀 Live Demo
+
+<a href="https://feedbackhub-3kpw.onrender.com" target="_blank">
+  🔗 Click here to view live project
+</a>
+
+---
 
 ## ✨ Features
 
